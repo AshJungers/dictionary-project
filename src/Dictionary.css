@@ -1,24 +1,30 @@
-.Dictionary form {
-  text-align: center;
+.Dictionary h3 {
+  font-size: 35px;
 }
+
 .Dictionary section {
   background: white;
   border-radius: 5px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
   margin: 20px 0;
   padding: 30px;
 }
 
 .Dictionary input {
-  width: 100%;
+  width: 55%;
   padding: 6px 4px;
   border: 2px solid #ddd;
   border-radius: 5px;
-  color: #a0bcc2;
-  font-weight: bolder;
+  color: rgb(113, 143, 150);
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .Dictionary .hint {
-  font-size: 12px;
+  font-size: 15px;
   margin-top: 5px;
+}
+
+.Dictionary .dictionary-search {
+  text-align: center;
 }
