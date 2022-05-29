@@ -1,3 +1,9 @@
+body {
+  background: #a0bcc2;
+}
+a {
+  color: #a0bcc2;
+}
 .App-header {
   text-align: center;
 }
