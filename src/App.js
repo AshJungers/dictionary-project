@@ -10,7 +10,7 @@ export default function App() {
       </div>
       <div className="footer">
         <a
-          href="https://github.com/AshJungers"
+          href="https://github.com/AshJungers/dictionary-project"
           target="_blank"
           rel="noopener noreferrer"
           className="footer-a"
