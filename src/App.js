@@ -7,9 +7,24 @@ export default function App() {
       <div className="container">
         <header className="App-header mb-4">Dictionary</header>
         <Dictionary defaultKeyword="adventure" />
-        <footer className="App-footer">
-          <small>Coded by Ashley Jungers</small>
-        </footer>
+      </div>
+      <div className="footer">
+        <a
+          href="https://github.com/AshJungers/weather-react"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="footer-a"
+        >
+          Open-sourced{" "}
+        </a>
+        code by{" "}
+        <a
+          href="https://www.linkedin.com/in/ashleyjungers/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ashley Jungers
+        </a>
       </div>
     </div>
   );
